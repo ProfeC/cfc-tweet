@@ -3,7 +3,7 @@
 	<!--- !Global Variables --->
 	<cfparam name="dfltReturnFormat" default="xml" type="string" />
 	<cfparam name="dfltUserName" default="SHUWebDev" type="string" />
-	<cfparam name="dfltPassword" default="20CamelBak09" type="string" />
+	<cfparam name="dfltPassword" default="xxxxxxxxx" type="string" />
 	
 	<!--- Global Methods --->
 
